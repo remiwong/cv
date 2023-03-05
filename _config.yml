@@ -1,0 +1,3 @@
+# Buid settings
+markdown: kramdown
+remote_theme: benbalter/retlab
