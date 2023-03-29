@@ -1254,13 +1254,13 @@
     top: 1px; }
 
 .btn-primary {
-  background-color: #378C3F;
+  background-color: #8c6037;
   color: #FFFFFF; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:focus, .btn-primary.active:hover,
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #a26f40;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -1272,21 +1272,21 @@
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:active,
   fieldset[disabled] .btn-primary.active {
-    background-color: #378C3F;
+    background-color: #838c37;
     border-color: #378C3F; }
   .btn-primary.btn-simple {
     color: #378C3F;
     border-color: #378C3F; }
     .btn-primary.btn-simple:hover, .btn-primary.btn-simple:focus, .btn-primary.btn-simple:active {
       background-color: transparent;
-      color: #40a249;
-      border-color: #40a249;
+      color: #a26f40;
+      border-color: #a26f40;
       box-shadow: none; }
   .btn-primary.btn-link {
     color: #378C3F; }
     .btn-primary.btn-link:hover, .btn-primary.btn-link:focus, .btn-primary.btn-link:active {
       background-color: transparent;
-      color: #40a249;
+      color: #a26f40;
       text-decoration: none;
       box-shadow: none; }
 
@@ -1484,10 +1484,10 @@
   .show > .btn-neutral.dropdown-toggle:focus,
   .show > .btn-neutral.dropdown-toggle:hover {
     background-color: #FFFFFF;
-    color: #40a249;
+    color: #a26f40;
     box-shadow: none; }
   .btn-neutral:hover, .btn-neutral:focus {
-    color: #40a249; }
+    color: #a26f40; }
     .btn-neutral:hover:not(.nav-link), .btn-neutral:focus:not(.nav-link) {
       box-shadow: none; }
   .btn-neutral.btn-simple {
@@ -2275,7 +2275,7 @@ p {
   color: #9A9A9A; }
 
 .text-primary {
-  color: #378C3F !important; }
+  color: #838c37!important; }
 
 .text-info {
   color: #2CA8FF !important; }
@@ -2598,7 +2598,7 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #838c37!important; }
 
 .bg-info {
   background-color: #2CA8FF !important; }
@@ -4137,7 +4137,7 @@ Created using IcoMoon - icomoon.io
       /* For Safari 5.1 to 6.0 */
       /* For Opera 11.1 to 12.0 */
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#378C3F 0%, #000 80%);
+      background: linear-gradient(#838c370%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
@@ -4620,7 +4620,7 @@ Created using IcoMoon - icomoon.io
       /* For Safari 5.1 to 6.0 */
       /* For Opera 11.1 to 12.0 */
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#378C3F 0%, #000 80%);
+      background: linear-gradient(#838c370%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
